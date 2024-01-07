@@ -76,6 +76,11 @@
       <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
       <a href="#"><img alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC.svg?logo=pytest&logoColor=white"></a>
       <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
+      <a href="#"><img alt="Next.js" src="https://img.shields.io/badge/ Next.js-20232a.svg?logo=next.js&logoColor=%2361DAFB"></a>
+      <a href="#"><img alt="Tailwind CSS" src="https://img.shields.io/badge/ Tailwind CSS-20232a.svg?logo=Tailwind CSS&logoColor=%2361DAFB"></a>
+      <a href="#"><img alt="ShadCN UI" src="https://img.shields.io/badge/ ShadCN UI-20232a.svg?logo=shadcnui&logoColor=%2361DAFB"></a>
+      <a href="#"><img alt="Streamlit UI" src="https://img.shields.io/badge/ Streamlit UI-20232a.svg?logo=streamlit&logoColor=%2361DAFB"></a>
+      <a href="#"><img alt="Redux" src="https://img.shields.io/badge/ Redux-20232a.svg?logo=redux&logoColor=%2361DAFB"></a>
   </p>
 
 ### ***<img src="https://media.giphy.com/media/jnDKffgCfGYOp6cMTK/giphy.gif" width="30px"> &nbsp; Databases and Cloud Hosting***
@@ -87,6 +92,9 @@
       <a href="#"><img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-0D101E.svg?logo=Replit&logoColor=white"></a>
       <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
       <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
+      <a href="#"><img alt="SQL Alchemy" src="https://img.shields.io/badge/SQL Alchemy-000000.svg?logo=sqlalchemy&logoColor=white"></a>
+      <a href="#"><img alt="Drizzle" src="https://img.shields.io/badge/Drizzle-000000.svg?logo=drizzle&logoColor=white"></a>
+      <a href="#"><img alt="Sanity" src="https://img.shields.io/badge/Sanity-000000.svg?logo=Sanity&logoColor=white"></a>
   </p>
 
 ### ***<img src="https://media.giphy.com/media/CAIgh8LKFbIciGx5Qe/giphy.gif" width="30px"> &nbsp; Software and Tools***
@@ -100,7 +108,10 @@
       <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
       <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
       <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
+      <a href="#"><img alt="Redux" src="https://img.shields.io/badge/ Redux-20232a.svg?logo=redux&logoColor=%2361DAFB"></a>
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+      <a href="#"><img alt="Open AI" src="https://img.shields.io/badge/Open AI-0078d7.svg?logo=openai&logoColor=white"></a>
+      <a href="#"><img alt="Gemini" src="https://img.shields.io/badge/Gemini-0078d7.svg?logo=google&logoColor=white"></a>
   </p>
   
 </div>
