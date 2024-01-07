@@ -129,7 +129,7 @@
 
 ### ***<img src="https://media.giphy.com/media/Th4eDUkNM3BYRXnzQi/giphy.gif" width="40px"> &nbsp; GitHub Profile Stats***
 
-  <a href="https://github.com/therafiali/github-readme-stats"><img alt="codeashing's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=therafiali&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=4E96FFFF&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/therafiali/github-readme-stats"><img alt="codeashing's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=therafiali&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=4E96FFFF&icon_color=" height="192px"/></a>
   <a href="https://github.com/therafiali/github-readme-stats"><img alt="codeashing's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=therafiali&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=4E96FFFF&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
   <br/>
 
