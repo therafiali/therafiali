@@ -1,4 +1,3 @@
-
 <img src="./assets/coding.gif" alt="banner">
  
    
