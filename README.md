@@ -1,3 +1,4 @@
+<img src="./linked banner.png" alt="banner">
 <img src="./assets/coding.gif" alt="banner">
  
    
