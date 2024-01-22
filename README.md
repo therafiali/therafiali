@@ -82,6 +82,7 @@
       <a href="#"><img alt="ShadCN UI" src="https://img.shields.io/badge/ ShadCN UI-20232a.svg?logo=shadcnui&logoColor=%2361DAFB"></a>
       <a href="#"><img alt="Streamlit UI" src="https://img.shields.io/badge/ Streamlit UI-20232a.svg?logo=streamlit&logoColor=%2361DAFB"></a>
       <a href="#"><img alt="Redux" src="https://img.shields.io/badge/ Redux-20232a.svg?logo=redux&logoColor=%2361DAFB"></a>
+      <a href="#"><img alt="jwt" src="https://img.shields.io/badge/ jwt-20232a.svg?logo=jwt&logoColor=%2361DAFB"></a>
   </p>
 
 ### ***<img src="https://media.giphy.com/media/jnDKffgCfGYOp6cMTK/giphy.gif" width="30px"> &nbsp; Databases and Cloud Hosting***
