@@ -1,5 +1,6 @@
 
 <img src="./assets/linkedbanner.png" alt="banner">
+
 <img src="./assets/coding.gif" alt="banner">
  
    
