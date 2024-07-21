@@ -1,5 +1,5 @@
 
-<img src="./assets/linkedbanner.png" alt="banner">
+<img src="https://media.licdn.com/dms/image/D4D16AQHIul41I9PNiA/profile-displaybackgroundimage-shrink_350_1400/0/1721483149483?e=1727308800&v=beta&t=s5aEwJ5kQVQlXnxQrczrL4mY5tqN9DAQ6_odHLZ2huE" alt="banner">
 
 <img src="./assets/coding.gif" alt="banner">
  
