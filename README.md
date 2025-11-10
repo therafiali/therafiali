@@ -23,6 +23,58 @@
 
 <br/>
 
+# 🚀 Web Projects Showcase
+
+## 1. Landing Pages (React, Next.js)
+
+High-performance, responsive landing pages optimized for conversions and SEO.
+
+🔗 **Projects:**
+- [yourmunshi.net](https://yourmunshi.net)
+- [zara-crm.vercel.app](https://zara-crm.vercel.app)
+
+**Tech Stack:** React, Next.js, Tailwind CSS  
+**Highlights:** Fast load times, SEO-friendly, reusable component-based structure
+
+---
+
+## 2. CRM Web Application
+
+Custom CRM platform for Real Estate Management with Meta Integration.
+
+🔗 **Project Type:** Real Estate CRM
+
+**Tech Stack:** React, Next.js, Node.js, Express, MongoDB  
+
+**Key Features:**
+- Role-based Access Control (RBAC)
+- Meta (Facebook) Integration
+- Real-time Data & Dashboard Analytics
+- Secure Authentication (JWT)
+
+🧪 **Demo Credentials:**
+- **Email:** example@new.com  
+- **Password:** 12345678
+
+---
+
+## 3. E-Commerce Web Application
+
+Scalable and dynamic online store using headless architecture (Sanity CMS).
+
+🔗 **Live:** [hhcomputers.com](https://hhcomputers.com)
+
+**Tech Stack:** React, Next.js, Sanity CMS, Stripe  
+
+**Highlights:**
+- CMS-driven content management  
+- Product filtering & dynamic cart  
+- Payment gateway integration  
+- Optimized for SEO & performance
+
+---
+
+<br/>
 
 ***<h3><img src="https://media.giphy.com/media/ES9cAJlcxblRESzOH1/giphy.gif" width="50px"> &nbsp; My Top Open Source Projects</h3>***
 <hr></hr>
