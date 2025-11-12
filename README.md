@@ -42,6 +42,8 @@ High-performance, responsive landing pages optimized for conversions and SEO.
 
 Custom CRM platform for Real Estate Management with Meta Integration.
 
+🔗 **Live:** [crm-amintai.vercel.app](https://crm-amintai.vercel.app/login)
+
 🔗 **Project Type:** Real Estate CRM
 
 **Tech Stack:** React, Next.js, Node.js, Express, MongoDB  
